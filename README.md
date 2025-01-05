@@ -13,6 +13,14 @@ Highlights of the Analysis:
  💡 Opportunities Identified: Suggested actionable strategies for enhancing passenger loyalty and operational efficiency.
  
   Live PowerBI Dashboard: https://lnkd.in/gSUuib5U
+
+![image](https://github.com/user-attachments/assets/6440ed20-ddd5-4f16-afc3-631619c4861b)
+
+![image](https://github.com/user-attachments/assets/90466217-a107-4ea2-858b-910c64fdcfc3)
+
+![image](https://github.com/user-attachments/assets/da333f75-9662-42ae-b0de-976dd49d0ec1)
+
+![image](https://github.com/user-attachments/assets/a7766943-f5ca-4571-990a-2bc4b37e497a)
   
 City-Level Fare and Trip Summary ReportAssessing City-Level Performance![image](https://github.com/user-attachments/assets/939613c8-ead6-4edd-a4f2-11f24f4d4ac5)
 ![image](https://github.com/user-attachments/assets/70ca2f0e-7f06-4caa-bda6-d6054b1d5e84)
