@@ -21,5 +21,19 @@ Monthly City-Level Trips Target Performance ReportEvaluate and categorize trip 
 
 ![image](https://github.com/user-attachments/assets/0bf72b09-352d-4700-977d-237a5dea446d)
 
+City-Level Repeat Passenger Trip Frequency ReportAssess customer loyalty and usage patterns across cities![image](https://github.com/user-attachments/assets/5036fda2-962f-49f3-b08c-906a82e654da)
+
+![image](https://github.com/user-attachments/assets/f51c0830-65b3-4d49-b90f-65643ff0a965)
+
+Ranking Cities by New PassengersIdentify Cities with Highest and Lowest Total New Passengers![image](https://github.com/user-attachments/assets/fb3b020b-cf84-4db2-9056-38281344723c)
+
+![image](https://github.com/user-attachments/assets/c45f8efc-a6ec-4143-b040-176ab2359400)
 
 
+Identify Month with Highest Revenue for Each CityDetermine the month with the highest revenue for each city![image](https://github.com/user-attachments/assets/71d1f975-68f9-4d49-8991-1feece9e4e90)
+
+![image](https://github.com/user-attachments/assets/9eb125ca-3569-4261-911a-cb9e9cd0813b)
+
+Repeat Passenger Rate AnalysisProvide insights into monthly and overall repeat passenger behavior![image](https://github.com/user-attachments/assets/873569a1-d448-4731-b6ec-b4928c8ed0b6)
+
+![image](https://github.com/user-attachments/assets/2372fca8-6fda-4c0a-a899-c75d827a35f9)
