@@ -14,3 +14,12 @@ Highlights of the Analysis:
  
   Live PowerBI Dashboard: https://lnkd.in/gSUuib5U
   
+City-Level Fare and Trip Summary ReportAssessing City-Level Performance![image](https://github.com/user-attachments/assets/939613c8-ead6-4edd-a4f2-11f24f4d4ac5)
+![image](https://github.com/user-attachments/assets/70ca2f0e-7f06-4caa-bda6-d6054b1d5e84)
+
+Monthly City-Level Trips Target Performance ReportEvaluate and categorize trip performance against targets.![image](https://github.com/user-attachments/assets/2e08d896-d7d4-4b87-985c-d22cd6c1c87a)
+
+![image](https://github.com/user-attachments/assets/0bf72b09-352d-4700-977d-237a5dea446d)
+
+
+
